@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Danil
 
-<!--
-**Gfisdx/Gfisdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web applications, API's and automation tools
 
-Here are some ideas to get you started:
+Tech Stack
+Python
+FastAPI
+PostgreSQL
+Redis
+Docker
+JavaScript/TypeScript
+PHP/Wordpres
+Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Telegram: @gfisdx
+Email: danildediukhinjob@gmail.com
+
