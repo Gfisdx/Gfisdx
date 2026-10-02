@@ -5,28 +5,10 @@ I build web applications, API's and automation tools
 ## Tech Stack
 
 ### Backend
-- Python — FastAPI
-- PHP — WordPress
-- Java
-
-### Frontend
-- JavaScript / TypeScript
-- HTML5 / CSS3
-
-### Databases
-- PostgreSQL
-- Redis
-
-### DevOps & Tools
-- Docker / Docker Compose
-- Git / GitHub
-- Linux
-- REST API
-
-### Backend
-- Python — FastAPI, Pydantic, SQLAlchemy
-- PHP — WordPress
-- Java
+- Python — FastAPI, Pydantic, SQLAlchemy, Alembic, asyncio, pytest
+- PHP — WordPress, Laravel, Symfony, Composer, PHPUnit
+- Java — Spring Boot, Spring Data JPA, Hibernate, Maven, JUnit
+- JavaScript / TypeScript — Next.js, Node.js, Prisma, Drizzle ORM, Express.js, npm
 
 ### Frontend
 - JavaScript / TypeScript
@@ -35,19 +17,20 @@ I build web applications, API's and automation tools
 
 ### Databases
 - PostgreSQL
+- SQL
+- MySQL
+- MongoDB
 - Redis
-- Microsoft SQL Server
 
-### DevOps
+### Messaging & Streaming
+- Apache Kafka
+- RabbitMQ
+
+### DevOps & Tools
 - Docker / Docker Compose
-- Linux
 - Git / GitHub
+- Linux
 
-### APIs & Architecture
-- REST API
-- JSON
-- WebSockets
-- JWT / OAuth 2.0
 
 Telegram: @gfisdx
 Email: danildediukhinjob@gmail.com
